@@ -1,0 +1,2 @@
+# TestAuto2
+POM based project
