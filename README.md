@@ -1,2 +1,2 @@
 # TestAuto2
-POM based project
+POM based project.....
