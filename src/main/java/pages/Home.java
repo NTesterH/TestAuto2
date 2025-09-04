@@ -43,6 +43,7 @@ public class Home {
     public void navigate(){
         this.driver.navigate().to(homeUrl);
     }
+
     // Constructor
     public Home(WebDriver driver) {
         this.driver = driver;
